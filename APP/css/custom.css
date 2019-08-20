@@ -1,0 +1,12 @@
+/*---------------------------------------
+ *                                      *
+ *       Add Your Custom CSS Here       *
+ *                                      *
+ ---------------------------------------*/
+ .navbar.fixed-top {
+    position:fixed;
+    right:0;left:0
+}
+.bg-blue {
+    background-color: #22A6FE
+}
